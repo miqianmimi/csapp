@@ -3,7 +3,7 @@
 </p>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square"></a>
     <a href="https://gitter.im/biezhi/blade"><img src="https://badges.gitter.im/biezhi/blade.svg?style=flat-square"></a>
-    <a href="https://www.codetriage.com/biezhi/blade"><img src="https://www.codetriage.com/biezhi/blade/badges/users.svg"></a>
+    <a href="https://www.codetriage.com/users/44786"><img src="https://www.codetriage.com/biezhi/blade/badges/users.svg"></a>
 </p>
 
 This is an internet course of Nanjing University about the Operating System.
